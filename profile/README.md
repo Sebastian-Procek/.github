@@ -75,7 +75,7 @@ Senior backend engineer with **15+ years of PHP** and a strong focus on **softwa
 |------|---------|--------|--------|
 | PHP Developer | **IFX Payments** (IFX UK Ltd) | Regulated payments & FX | 2025–2026 |
 | Senior PHP Backend Developer | **Modivo** (Fast White Cat S.A.) | High-scale e-commerce | 2022–2024 |
-| Developer → Senior → Team Leader | **Inis** (Digitree Group S.A.) | Marketing / mailing platform | 2013–2022 |
+| Developer → Senior → Team Leader | **Inis** (Digitree Group S.A.) | Marketing / adtech / mailing platform | 2013–2022 |
 | Fullstack Developer / Freelancer | **Procek.net** | Web / fullstack / hosting | 2009–2015 |
 
 ---
